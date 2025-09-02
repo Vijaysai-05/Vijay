@@ -1,4 +1,2 @@
-# Vijay
-This is my first class
-This is my Output    
-How are you? eh
+# my-first-repo
+Learning GitHub with DevOps
